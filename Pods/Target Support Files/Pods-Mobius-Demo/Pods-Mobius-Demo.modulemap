@@ -1,0 +1,6 @@
+framework module Pods_Mobius_Demo {
+  umbrella header "Pods-Mobius-Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
